@@ -5,6 +5,8 @@ O objetivo do projeto foi utilizar o HTML5 juntamente com as folhas de estilo CS
 
 # Layout do projeto
 
+<p>Link do jogo: https://lucasmlisboa.github.io/ShootingGame</p>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/26259171/159336539-5e6b74a8-994b-411c-89d6-75e8dc03b97f.png" width="90%" />
 </div>
