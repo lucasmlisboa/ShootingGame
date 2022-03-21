@@ -14,7 +14,7 @@ O objetivo do projeto foi utilizar o HTML5 juntamente com as folhas de estilo CS
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  
+  <li>JQuery</li>
 </ul>
 
 #
