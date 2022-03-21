@@ -1,7 +1,7 @@
 # Projeto: Shooting Game
 <h3> Sobre o projeto </h3>
-<p>Esse rercurso foi criado para colocar em prática os conhecimentos adquiridos no curso de HTML, CSS e Javascript da Digital Inovation One de um projeto Frontend Web.
-O objetivo do projeto foi utilizar o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, para desenvolver um jogos de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. </p>
+<p>Esse jogo foi criado para colocar em prática os conhecimentos adquiridos no curso de HTML, CSS e Javascript da Digital Inovation One.
+O objetivo do projeto foi utilizar o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, para desenvolver um jogo de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. É um jogo de tiro cujo o objetivo é salvar a vida do personagem, enquanto pilota o helicóptero. Tendo como atirar nos 2 inimigos, o caminhão e o outro helicóptero, acumulando pontos quando acerta eles. </p>
 
 # Layout do projeto
 
