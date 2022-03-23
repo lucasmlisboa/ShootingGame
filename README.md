@@ -1,17 +1,17 @@
-# Projeto: Shooting Game
-<h3> Sobre o projeto </h3>
-<p>Esse jogo foi criado para colocar em prática os conhecimentos adquiridos no curso de HTML, CSS e Javascript da Digital Inovation One.
-O objetivo do projeto foi utilizar o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, para desenvolver um jogo de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. É um jogo de tiro cujo o objetivo é salvar a vida do personagem, enquanto pilota o helicóptero, sendo possível disparar tiros e acertar os 2 inimigos, o caminhão e a outra nave, acumulando pontos quando acerta eles. </p>
+# Project: Shooting Game
+<h3> About </h3>
+<p>This game was created to put into practice the knowledge acquired in the HTML, CSS and Javascript course at Digital Inovation One.
+CSS was used for HTML3 purpose and design purpose as JavaScript style sheets, to quickly develop various tools compatible with platforms including devices. It's a shooting game whose objective is to save the character's life, while piloting the helicopter, being possible to fire shots and hit the 2 enemies, the truck and the other ship, accumulating points when they hit them. </p>
 
-# Layout do projeto
+# Layout
 
-<p>Link do jogo: https://lucasmlisboa.github.io/ShootingGame</p>
+<p>Link of the game: https://lucasmlisboa.github.io/ShootingGame</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/26259171/159336539-5e6b74a8-994b-411c-89d6-75e8dc03b97f.png" width="90%" />
 </div>
 
-# Tecnologias utilizadas
+# Technologies
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -21,8 +21,8 @@ O objetivo do projeto foi utilizar o HTML5 juntamente com as folhas de estilo CS
 
 #
 
-<p><i><b>Autor: Lucas Magno Barros Lisbôa </b></i></p>
-<p><b>Instrutor: Denilson Bonatti</b></p>
+<p><i><b>Author: Lucas Magno Barros Lisbôa </b></i></p>
+<p><b>Instructor: Denilson Bonatti</b></p>
 
  <div> 
    <a href = "mailto:lucasmlisboa32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
